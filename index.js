@@ -28,6 +28,4 @@ const rmdirRecursiveSync = function (file) {
 };
 
 
-module.exports = {
-	rmdirRecursiveSync: rmdirRecursiveSync
-};
+module.exports = rmdirRecursiveSync;

@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/aximario/ax-rmdirRecursive/issues"
   },
-  "homepage": "https://github.com/aximario/ax-rmdirRecursive#readme"
+  "homepage": "https://github.com/aximario/ax-rmdirRecursive#readme",
+  "devDependencies": {
+    "webpack": "^1.13.2"
+  }
 }
