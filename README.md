@@ -11,7 +11,7 @@ npm install --save rmdirRecursiveSync
 ## 使用
 
 ```javascript
-const rmdirRecursiveSync = require('rmdirRecursiveSync');
+const rmdirRecursiveSync = require('ax-rmdirRecursiveSync');
 
 // 删除node_modules目录
 rmdirRecursiveSync('./node_modules');
